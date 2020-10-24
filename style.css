@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    /*outline: 1px dotted red;*/
+}
+.container{
+    margin: 0 auto;
+    width: 1024px;
+}
+.list{
+    float: left;
+    display: block;
+    text-align: center;
+    height: 55px;
+    padding: 1px;
+    font-size: 14px;
+}
+p{
+    border-style: solid;
+    border-width: 1px;
+    font-size: 12px;
+}
+strong{
+    color: #2b29af;
+    font-size: 18px;
+}
+.rojo{
+    color: red;
+}
+.cel{
+    background-color: #689bff;
+}
+.ama{
+    background-color: #fecb00;
+}
+.ros{
+    background-color: #f79997;
+}
+.ver{
+    background-color: #1fca21;
+}
+.blank{
+    border-style: none;
+}
+.aling-l{
+    text-align: left;
+}
+.aling-c{
+    padding: 20px 0;
+}
+.margin{
+    margin-top: 20px;
+}
+.punto{
+    display: none;
+}
+.pad-l{
+    padding-left: 5px;
+}
+.pad-r{
+    padding-right: 5px;
+}
+.col-1 {width: 5.26%;}
+.col-2 {width: 10.52%;}
+.col-3 {width: 15.78%;}
+.col-4 {width: 21.05%;}
+.col-5 {width: 26.31%;}
+.col-6 {width: 31.57%;}
+.col-7 {width: 36.84%;}
+.col-8 {width: 42.10%;}
+.col-9 {width: 47.36%;}
+.col-10 {width: 52.63%;}
+.col-11 {width: 57.89%;}
+.col-12 {width: 63.15%;}
+.col-13 {width: 68.42%;}
+.col-14 {width: 73.68%;}
+.col-15 {width: 78.94%;}
+.col-16 {width: 84.21%;}
+.col-17 {width: 89.47%;}
+.col-18 {width: 94.73%;}
+.col-19 {width: 100%;}
